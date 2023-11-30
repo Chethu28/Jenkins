@@ -1,3 +1,4 @@
 ##Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
 
-![CI/CD](https://drive.google.com/file/d/1KwB5E-Ku4jko045vlXNnRRBc_gOVjGXO/view?usp=sharing)
+![CI_CD ](https://github.com/Chethu28/Jenkins/assets/95994938/ee3791de-e7d4-44b0-92f9-55eb67f767f2)
+
